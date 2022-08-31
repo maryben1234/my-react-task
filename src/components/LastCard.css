@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.third{
+background-clip: content-box;
+/* position: fixed; */
+}
+ .btn1{
+    border-radius: 13px;
+    height: fit-content;
+    width: 13rem;
+    /* position: absolute;
+    bu: px; */
+ }
